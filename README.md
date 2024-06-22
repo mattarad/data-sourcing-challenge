@@ -1,5 +1,7 @@
 # data-sourcing-challenge
 
+### SET UP ENVIRONMENT
+
 To start, create a virtual environment:
 
 ```shell
@@ -30,3 +32,13 @@ pip install python-dotenv
 ```shell
 pip install requests
 ```
+
+**_to deactivate virtual environment (Windows)_**
+
+```shell
+deactivate
+```
+
+#### SETUP COMPLETED.
+
+#### GREAT JOB!
